@@ -1,0 +1,14 @@
+body {
+  min-width: 100vh;
+  min-height: 100vh;
+  position: absolute;
+  background: #ffff;
+  margin: 0;
+  padding: 0;
+  overscroll-behavior: none;
+}
+
+::-webkit-scrollbar
+{
+  display: none;
+}
